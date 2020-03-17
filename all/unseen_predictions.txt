@@ -1,0 +1,4 @@
+net.optimized_memory = 0 
+batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 3072 K-images (48 Kilo-batches_64) 
